@@ -25,6 +25,7 @@ to what you consider is a production ready code.
   - iOS Chrome/Safari
 
 **Task:**
+
 Build a simple app which consumes, handles and displays API data, with UI close to Wireframe provided.
 
 - App is expected to have filters for what type of product. Ex. "Car", "Pet", "All"
