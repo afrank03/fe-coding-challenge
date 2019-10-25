@@ -37,4 +37,4 @@ It is expected that we can clone & build your solution. If your submission requi
 
 ### Wireframe
 
-![Temporal wireframe](assets/wireframe.png)
+![Temporal wireframe](assets/wireframe.jpg)
