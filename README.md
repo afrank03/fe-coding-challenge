@@ -3,7 +3,7 @@
 This challenge is purely designed for you to demonstrate your Front-end abilities
 to what you consider is a production ready code.
 
-Before you start:
+**Before you start:**
 
 - There is no time constraints on this challenge.
 - There is no restrictions on tech stack.
@@ -11,7 +11,7 @@ Before you start:
   It's not designed to dictate solution or look of your app.
   You are absolutely free to introduce your own view of how App should look like and be organised.
 
-Requirements:
+**Requirements:**
 
 - Desktop & Mobile (responsive) App
 - Consumes API (link here) for data
@@ -24,7 +24,7 @@ Requirements:
   - Android Chrome
   - iOS Chrome/Safari
 
-Task:
+**Task:**
 Build a simple app which consumes, handles and displays API data, with UI close to Wireframe provided.
 
 - App is expected to have filters for what type of product. Ex. "Car", "Pet", "All"
