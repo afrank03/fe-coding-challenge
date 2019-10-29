@@ -14,7 +14,7 @@ to what you consider is a production ready code.
 **Requirements:**
 
 - Desktop & Mobile (responsive) App
-- Consumes API (link here) for data
+- Consumes [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/EasyMode) for data
 - Production ready code
 - App should work and look as expected in all major browsers:
   - Chrome
@@ -25,6 +25,10 @@ to what you consider is a production ready code.
   - iOS Chrome/Safari
 
 **Task:**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 048d801c7e1f0b1deef8390f27ab527f0a15de6a
 Build a simple app which consumes, handles and displays API data, with UI close to Wireframe provided.
 
 - App is expected to have filters for what type of product. Ex. "Car", "Pet", "All"
@@ -33,6 +37,7 @@ Build a simple app which consumes, handles and displays API data, with UI close 
 
 Put anything you feel will help to understand and maintain your code.
 Your solution should be ready for production environment deployment.
+
 It is expected that we can clone & build your solution. If your submission requires more complex steps, then please provide the appropriate instruction
 
 ### Wireframe
