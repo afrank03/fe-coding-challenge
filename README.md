@@ -25,10 +25,7 @@ to what you consider is a production ready code.
   - iOS Chrome/Safari
 
 **Task:**
-<<<<<<< HEAD
-=======
 
->>>>>>> 048d801c7e1f0b1deef8390f27ab527f0a15de6a
 Build a simple app which consumes, handles and displays API data, with UI close to Wireframe provided.
 
 - App is expected to have filters for what type of product. Ex. "Car", "Pet", "All"
@@ -42,4 +39,4 @@ It is expected that we can clone & build your solution. If your submission requi
 
 ### Wireframe
 
-![Temporal wireframe](assets/wireframe.jpg)
+![Temporal wireframe](assets/wireframe.png)
