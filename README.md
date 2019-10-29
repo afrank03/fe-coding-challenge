@@ -16,13 +16,7 @@ to what you consider is a production ready code.
 - Desktop & Mobile (responsive) App
 - Consumes [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/EasyMode) for data
 - Production ready code
-- App should work and look as expected in all major browsers:
-  - Chrome
-  - Firefox
-  - Safari
-  - IE11+
-  - Android Chrome
-  - iOS Chrome/Safari
+- App should work and look as expected in all major browsers on desktop and mobile.
 
 **Task:**
 
