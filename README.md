@@ -1,35 +1,39 @@
 ## [FE Coding Challenge]
 
-This challenge is purely designed for you to demonstrate your Front-end abilities
-to what you consider is a production ready code.
+This front-end challenge is designed for you to showcase your abilities, and demonstrate what you would consider to be production ready code.  
 
-**Before you start:**
+### Before you start
 
-- There is no time constraints on this challenge.
-- There is no restrictions on tech stack.
-- Wireframe ("Design"), which we provide is just for you to get the idea of what is expected.
-  It's not designed to dictate solution or look of your app.
-  You are absolutely free to introduce your own view of how App should look like and be organised.
+- There are no time constraints. `(Submission date should be confirmed with your main point of contact)`   
+- There are no restrictions on the tech stack.  
+- The wireframe design, provided below is just for guidance. You are free to use it, or to introduce a suitable alternative instead.
+- You should have been provided with a link to an empty repository on github, and should have permission to clone, and push changes to it. 
 
-**Requirements:**
+### Requirements
 
-- Desktop & Mobile (responsive) App
-- Consumes [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/EasyMode) for data
-- Production ready code
-- App should work and look as expected in all major browsers on desktop and mobile.
+- Must be responsive, supporting both desktop & mobile.  
+- Must consume [this API endpoint](https://gc-frontendchallenge-2019.azurewebsites.net/api/EasyMode) for data.  
+- Must be able to filter by product (e.g. "Car", "Pet", "All").  
+- Must include a counter, reflecting total quotes visible for the current view.  
+- Each quote should be displayed as a 'card'.  
+- Must align with _your_ definition of production ready code.  
+- App must work, and look as expected in all major browsers on both desktop & mobile.  
 
-**Task:**
+### Task
 
-Build a simple app which consumes, handles and displays API data, with UI close to Wireframe provided.
+Build a simple app which consumes, handles and displays data served from an API, with a UI reflecting either the provided wireframe, or a suitable alternative.  
 
-- App is expected to have filters for what type of product. Ex. "Car", "Pet", "All"
-- There should be counter of total quotes for current page view
-- Each quote should be displayed as a card
+Please include any additional material, if you feel it may:
+- Assist our understanding of your submission
+- Support any technical considerations that you've made
+- Support any technical decisions that you've made
 
-Put anything you feel will help to understand and maintain your code.
-Your solution should be ready for production environment deployment.
+It is expected that we can build your solution. If you think it will assist, please provide the appropriate build instructions.  
 
-It is expected that we can clone & build your solution. If your submission requires more complex steps, then please provide the appropriate instruction
+### Submission
+
+When complete, please push your code to the github repository that was provided to you alongside this challenge.  
+If you experience trouble doing this, please get in touch with your main point of contact for alternative submission methods.
 
 ### Wireframe
 
